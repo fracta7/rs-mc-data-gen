@@ -1,0 +1,7540 @@
+[
+  {
+    "quantity": 3,
+    "requirements": {
+      "birch_planks": 4,
+      "stick": 2
+    },
+    "result": "birch_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "deepslate_tiles": 6
+    },
+    "result": "deepslate_tile_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "orange_terracotta": 1
+    },
+    "result": "orange_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "andesite": 6
+    },
+    "result": "andesite_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_coal_ore": 1,
+      "fuel": 1
+    },
+    "result": "coal",
+    "type": "blasting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "warped_planks": 6
+    },
+    "result": "warped_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "sugar_cane": 3
+    },
+    "result": "paper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 2,
+      "stick": 1
+    },
+    "result": "diamond_sword",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "blaze_powder": 1,
+      "slime_ball": 1
+    },
+    "result": "magma_cream",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "acacia_planks": 6
+    },
+    "result": "acacia_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brown_dye": 1,
+      "candle": 1
+    },
+    "result": "brown_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "melon_slice": 9
+    },
+    "result": "melon",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "smooth_sandstone": 6
+    },
+    "result": "smooth_sandstone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_emerald_ore": 1,
+      "fuel": 1
+    },
+    "result": "emerald",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "turtle_scute": 5
+    },
+    "result": "turtle_helmet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobblestone": 6,
+      "quartz": 1,
+      "redstone": 2
+    },
+    "result": "observer",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cobblestone": 6
+    },
+    "result": "cobblestone_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "porkchop": 1
+    },
+    "result": "cooked_porkchop",
+    "type": "smoking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_copper": 1
+    },
+    "result": "waxed_weathered_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "snowball": 4
+    },
+    "result": "snow_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "porkchop": 1
+    },
+    "result": "cooked_porkchop",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "spruce_log": 4
+    },
+    "result": "spruce_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "lapis_ore": 1
+    },
+    "result": "lapis_lazuli",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "gold_ingot": 6,
+      "redstone": 1,
+      "stick": 1
+    },
+    "result": "powered_rail",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "nether_brick_slab": 2
+    },
+    "result": "chiseled_nether_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "lime_dye": 1
+    },
+    "result": "lime_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "breeze_rod": 1,
+      "diamond": 7,
+      "flow_armor_trim_smithing_template": 1
+    },
+    "result": "flow_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo": 2
+    },
+    "result": "stick",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_diamond_ore": 1,
+      "fuel": 1
+    },
+    "result": "diamond",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "lime_dye": 1
+    },
+    "result": "lime_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "black_terracotta": 1,
+      "fuel": 1
+    },
+    "result": "black_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_cut_copper_stairs": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_cut_copper_stairs",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_diorite": 6
+    },
+    "result": "polished_diorite_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "mangrove_planks": 6
+    },
+    "result": "mangrove_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "green_terracotta": 1
+    },
+    "result": "green_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_blackstone": 3
+    },
+    "result": "polished_blackstone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "sand": 4,
+      "white_dye": 1
+    },
+    "result": "white_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "jungle_planks": 3
+    },
+    "result": "jungle_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "dark_prismarine": 3
+    },
+    "result": "dark_prismarine_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "brown_dye": 1,
+      "gravel": 4,
+      "sand": 4
+    },
+    "result": "brown_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 1,
+      "stick": 2
+    },
+    "result": "golden_shovel",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "stone": 1
+    },
+    "result": "smooth_stone",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "lime_wool": 6,
+      "stick": 1
+    },
+    "result": "lime_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "red_dye": 1,
+      "white_dye": 1
+    },
+    "result": "pink_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "rabbit": 1
+    },
+    "result": "cooked_rabbit",
+    "type": "smoking"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "peony": 1
+    },
+    "result": "pink_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "bone": 1
+    },
+    "result": "bone_meal",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stick": 3,
+      "string": 2
+    },
+    "result": "fishing_rod",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "iron_ingot": 5
+    },
+    "result": "hopper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cod": 1,
+      "fuel": 1
+    },
+    "result": "cooked_cod",
+    "type": "smelting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "gunpowder": 1,
+      "paper": 1
+    },
+    "result": "firework_rocket",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mossy_stone_bricks": 3
+    },
+    "result": "mossy_stone_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "raw_iron": 1
+    },
+    "result": "iron_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gray_dye": 1,
+      "terracotta": 8
+    },
+    "result": "gray_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "emerald_block": 1
+    },
+    "result": "emerald",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "brown_dye": 1,
+      "glass": 8
+    },
+    "result": "brown_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo_raft": 1,
+      "chest": 1
+    },
+    "result": "bamboo_chest_raft",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "blue_dye": 1,
+      "red_dye": 1
+    },
+    "result": "purple_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "coal": 9
+    },
+    "result": "coal_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "granite": 6
+    },
+    "result": "granite_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "waxed_exposed_cut_copper_slab": 2
+    },
+    "result": "waxed_exposed_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "dune_armor_trim_smithing_template": 1,
+      "sandstone": 1
+    },
+    "result": "dune_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 4
+    },
+    "result": "iron_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "gold_ingot": 1
+    },
+    "result": "gold_nugget",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "orange_dye": 1
+    },
+    "result": "orange_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cobbled_deepslate": 1,
+      "diamond": 7,
+      "silence_armor_trim_smithing_template": 1
+    },
+    "result": "silence_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "gold_ore": 1
+    },
+    "result": "gold_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_spruce_log": 6
+    },
+    "result": "spruce_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "amethyst_shard": 3,
+      "sculk_sensor": 1
+    },
+    "result": "calibrated_sculk_sensor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "black_wool": 2
+    },
+    "result": "black_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 4
+    },
+    "result": "honeycomb_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "lime_dye": 1,
+      "sand": 4
+    },
+    "result": "lime_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "brown_wool": 2
+    },
+    "result": "brown_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "sand": 4
+    },
+    "result": "sandstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo_planks": 1
+    },
+    "result": "bamboo_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "light_gray_stained_glass": 6
+    },
+    "result": "light_gray_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_ingot": 3
+    },
+    "result": "lightning_rod",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "bamboo_planks": 6
+    },
+    "result": "bamboo_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "porkchop": 1
+    },
+    "result": "cooked_porkchop",
+    "type": "smelting"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "green_stained_glass": 6
+    },
+    "result": "green_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "stone": 4
+    },
+    "result": "stone_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "tuff": 3
+    },
+    "result": "tuff_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "green_dye": 1
+    },
+    "result": "green_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "purple_dye": 1
+    },
+    "result": "purple_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cherry_planks": 1
+    },
+    "result": "cherry_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "nether_wart": 9
+    },
+    "result": "nether_wart_block",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "white_dye": 1
+    },
+    "result": "white_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_mangrove_log": 6
+    },
+    "result": "mangrove_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "acacia_planks": 4,
+      "stick": 2
+    },
+    "result": "acacia_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "crimson_planks": 6
+    },
+    "result": "crimson_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "white_wool": 2
+    },
+    "result": "white_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "black_dye": 1,
+      "terracotta": 8
+    },
+    "result": "black_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "purple_dye": 1
+    },
+    "result": "purple_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "birch_planks": 6
+    },
+    "result": "birch_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "birch_planks": 6,
+      "stick": 1
+    },
+    "result": "birch_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cherry_planks": 2
+    },
+    "result": "cherry_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_dark_oak_log": 6
+    },
+    "result": "dark_oak_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "lime_wool": 2
+    },
+    "result": "lime_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "gold_block": 1
+    },
+    "result": "gold_ingot",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "copper_block": 3,
+      "redstone": 1
+    },
+    "result": "copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honey_bottle": 4
+    },
+    "result": "honey_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "smooth_stone_slab": 1,
+      "stick": 6
+    },
+    "result": "armor_stand",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "magenta_wool": 6,
+      "stick": 1
+    },
+    "result": "magenta_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "nether_bricks": 3
+    },
+    "result": "nether_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_copper_ore": 1,
+      "fuel": 1
+    },
+    "result": "copper_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 2
+    },
+    "result": "light_weighted_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "redstone_ore": 1
+    },
+    "result": "redstone",
+    "type": "blasting"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "light_blue_dye": 1
+    },
+    "result": "light_blue_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "purpur_slab": 2
+    },
+    "result": "purpur_pillar",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 9
+    },
+    "result": "diamond_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "spruce_planks": 6,
+      "stick": 1
+    },
+    "result": "spruce_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "raw_copper_block": 1
+    },
+    "result": "raw_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "red_dye": 1
+    },
+    "result": "red_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cobblestone": 2,
+      "quartz": 2
+    },
+    "result": "diorite",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "shulker_shell": 2
+    },
+    "result": "shulker_box",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brown_terracotta": 1,
+      "fuel": 1
+    },
+    "result": "brown_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 1,
+      "paper": 3
+    },
+    "result": "book",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "green_wool": 6,
+      "stick": 1
+    },
+    "result": "green_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 5
+    },
+    "result": "minecart",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 7
+    },
+    "result": "diamond_leggings",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "baked_potato": 1,
+      "bowl": 1,
+      "brown_mushroom": 1,
+      "carrot": 1,
+      "cooked_rabbit": 1
+    },
+    "result": "rabbit_stew",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cherry_planks": 3
+    },
+    "result": "cherry_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cobblestone": 1,
+      "diamond": 7,
+      "vex_armor_trim_smithing_template": 1
+    },
+    "result": "vex_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cut_copper_stairs": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_cut_copper_stairs",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "jungle_planks": 6
+    },
+    "result": "jungle_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "birch_planks": 1
+    },
+    "result": "birch_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "minecart": 1,
+      "tnt": 1
+    },
+    "result": "tnt_minecart",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_copper_door": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_copper_door",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "gray_dye": 1
+    },
+    "result": "gray_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "sand": 4,
+      "yellow_dye": 1
+    },
+    "result": "yellow_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "lapis_ore": 1
+    },
+    "result": "lapis_lazuli",
+    "type": "blasting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_weathered_copper": 4
+    },
+    "result": "waxed_weathered_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "redstone": 1,
+      "weathered_copper": 3
+    },
+    "result": "weathered_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "nether_bricks": 6
+    },
+    "result": "nether_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "spruce_planks": 4,
+      "stick": 2
+    },
+    "result": "spruce_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "glow_ink_sac": 1,
+      "item_frame": 1
+    },
+    "result": "glow_item_frame",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "gray_dye": 1,
+      "sand": 4
+    },
+    "result": "gray_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "red_sand": 4
+    },
+    "result": "red_sandstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 4
+    },
+    "result": "golden_boots",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 4,
+      "redstone": 1
+    },
+    "result": "clock",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_trapdoor": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_copper_trapdoor",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cut_copper_slab": 2
+    },
+    "result": "chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "orange_wool": 2
+    },
+    "result": "orange_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "raw_copper": 9
+    },
+    "result": "raw_copper_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "white_terracotta": 1
+    },
+    "result": "white_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 3
+    },
+    "result": "bucket",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "egg": 1,
+      "pumpkin": 1,
+      "sugar": 1
+    },
+    "result": "pumpkin_pie",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "wheat": 9
+    },
+    "result": "hay_block",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_diamond_ore": 1,
+      "fuel": 1
+    },
+    "result": "diamond",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "weathered_cut_copper_slab": 2
+    },
+    "result": "weathered_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "cobbled_deepslate": 4
+    },
+    "result": "polished_deepslate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "hay_block": 1
+    },
+    "result": "wheat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "gray_wool": 2
+    },
+    "result": "gray_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "weathered_cut_copper": 3
+    },
+    "result": "weathered_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "compass": 1,
+      "paper": 8
+    },
+    "result": "map",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "orange_wool": 6,
+      "stick": 1
+    },
+    "result": "orange_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "black_dye": 1,
+      "candle": 1
+    },
+    "result": "black_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_helmet": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_helmet",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "salmon": 1
+    },
+    "result": "cooked_salmon",
+    "type": "smoking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 3,
+      "stick": 2
+    },
+    "result": "diamond_axe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "crimson_planks": 1
+    },
+    "result": "crimson_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 5
+    },
+    "result": "diamond_helmet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "blue_stained_glass": 6
+    },
+    "result": "blue_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "crimson_planks": 2
+    },
+    "result": "crimson_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cornflower": 1
+    },
+    "result": "blue_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "sunflower": 1
+    },
+    "result": "yellow_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "blue_dye": 1,
+      "candle": 1
+    },
+    "result": "blue_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "furnace": 1,
+      "minecart": 1
+    },
+    "result": "furnace_minecart",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chicken": 1,
+      "fuel": 1
+    },
+    "result": "cooked_chicken",
+    "type": "smoking"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "black_stained_glass": 6
+    },
+    "result": "black_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "pink_dye": 1
+    },
+    "result": "pink_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cherry_planks": 2,
+      "stick": 4
+    },
+    "result": "cherry_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_copper_grate": 1
+    },
+    "result": "waxed_oxidized_copper_grate",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "white_tulip": 1
+    },
+    "result": "light_gray_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "black_wool": 6,
+      "stick": 1
+    },
+    "result": "black_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo_planks": 2,
+      "stick": 4
+    },
+    "result": "bamboo_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "tuff": 6
+    },
+    "result": "tuff_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "red_dye": 1,
+      "terracotta": 8
+    },
+    "result": "red_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "dried_kelp": 9
+    },
+    "result": "dried_kelp_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "blue_wool": 6,
+      "stick": 1
+    },
+    "result": "blue_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "terracotta": 8,
+      "yellow_dye": 1
+    },
+    "result": "yellow_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_cherry_log": 4
+    },
+    "result": "stripped_cherry_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "magenta_dye": 1,
+      "sand": 4
+    },
+    "result": "magenta_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "warped_planks": 2
+    },
+    "result": "warped_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "sugar_cane": 1
+    },
+    "result": "sugar",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "bricks": 6
+    },
+    "result": "brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_diorite": 3
+    },
+    "result": "polished_diorite_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "exposed_copper": 3,
+      "redstone": 1
+    },
+    "result": "exposed_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_bulb": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_copper_bulb",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stick": 1,
+      "white_wool": 6
+    },
+    "result": "white_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "waxed_oxidized_cut_copper_slab": 2
+    },
+    "result": "waxed_oxidized_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stone": 2
+    },
+    "result": "stone_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "blaze_rod": 1
+    },
+    "result": "blaze_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_block": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_copper_block",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_hoe": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_hoe",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "bamboo_planks": 6
+    },
+    "result": "bamboo_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "tuff_bricks": 6
+    },
+    "result": "tuff_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "weathered_copper": 4
+    },
+    "result": "weathered_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "jungle_planks": 6
+    },
+    "result": "jungle_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_chestplate": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_chestplate",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "deepslate_bricks": 4
+    },
+    "result": "deepslate_tiles",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "yellow_wool": 2
+    },
+    "result": "yellow_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_copper_trapdoor": 1
+    },
+    "result": "waxed_oxidized_copper_trapdoor",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "raw_gold_block": 1
+    },
+    "result": "raw_gold",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "coal_ore": 1,
+      "fuel": 1
+    },
+    "result": "coal",
+    "type": "blasting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "red_wool": 2
+    },
+    "result": "red_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "brown_dye": 1,
+      "terracotta": 8
+    },
+    "result": "brown_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "blue_dye": 1,
+      "pink_dye": 1,
+      "red_dye": 1
+    },
+    "result": "magenta_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "carrot": 1,
+      "fishing_rod": 1
+    },
+    "result": "carrot_on_a_stick",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "feather": 1,
+      "flint": 1,
+      "stick": 1
+    },
+    "result": "arrow",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "quartz": 4
+    },
+    "result": "quartz_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_ore": 1,
+      "fuel": 1
+    },
+    "result": "diamond",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_chiseled_copper": 1
+    },
+    "result": "waxed_weathered_chiseled_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_bamboo_block": 6
+    },
+    "result": "bamboo_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "nether_brick": 4
+    },
+    "result": "nether_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brick": 3
+    },
+    "result": "flower_pot",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 4
+    },
+    "result": "leather_boots",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_pickaxe": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_pickaxe",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "dark_oak_planks": 5
+    },
+    "result": "dark_oak_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "jungle_log": 4
+    },
+    "result": "jungle_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_acacia_log": 6
+    },
+    "result": "acacia_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "sea_pickle": 1
+    },
+    "result": "lime_dye",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "warped_planks": 1
+    },
+    "result": "warped_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "birch_log": 4
+    },
+    "result": "birch_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "oak_boat": 1
+    },
+    "result": "oak_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_weathered_copper": 4
+    },
+    "result": "waxed_weathered_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "gray_stained_glass": 6
+    },
+    "result": "gray_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "purple_dye": 1,
+      "terracotta": 8
+    },
+    "result": "purple_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_ingot": 9
+    },
+    "result": "copper_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mud_bricks": 6
+    },
+    "result": "mud_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chiseled_stone_bricks": 8,
+      "netherite_ingot": 1
+    },
+    "result": "lodestone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_exposed_cut_copper": 6
+    },
+    "result": "waxed_exposed_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "end_stone": 4
+    },
+    "result": "end_stone_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 1,
+      "stick": 2
+    },
+    "result": "diamond_shovel",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "green_wool": 2
+    },
+    "result": "green_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "pointed_dripstone": 4
+    },
+    "result": "dripstone_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bone_meal": 9
+    },
+    "result": "bone_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "purple_wool": 2
+    },
+    "result": "purple_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "nether_brick": 2,
+      "nether_wart": 2
+    },
+    "result": "red_nether_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "furnace": 1,
+      "iron_ingot": 5,
+      "smooth_stone": 3
+    },
+    "result": "blast_furnace",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "pink_terracotta": 1
+    },
+    "result": "pink_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 4
+    },
+    "result": "diamond_boots",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "moss_block": 2
+    },
+    "result": "moss_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "waxed_weathered_cut_copper": 3
+    },
+    "result": "waxed_weathered_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "copper_block": 1
+    },
+    "result": "copper_ingot",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "diamond_block": 1
+    },
+    "result": "diamond",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "dark_oak_planks": 6
+    },
+    "result": "dark_oak_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 1,
+      "iron_nugget": 2
+    },
+    "result": "chain",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "gray_terracotta": 1
+    },
+    "result": "gray_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "beef": 1
+    },
+    "result": "cooked_beef",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_iron_ore": 1,
+      "fuel": 1
+    },
+    "result": "iron_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bowl": 1,
+      "brown_mushroom": 1,
+      "red_mushroom": 1
+    },
+    "result": "mushroom_stew",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_tuff": 6
+    },
+    "result": "polished_tuff_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "rabbit": 1
+    },
+    "result": "cooked_rabbit",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "kelp": 1
+    },
+    "result": "dried_kelp",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "mossy_cobblestone": 6
+    },
+    "result": "mossy_cobblestone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "black_dye": 1,
+      "glass_pane": 8
+    },
+    "result": "black_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "arrow": 1,
+      "glowstone_dust": 4
+    },
+    "result": "spectral_arrow",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "tuff": 4
+    },
+    "result": "polished_tuff",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_oak_log": 4
+    },
+    "result": "stripped_oak_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "green_dye": 1
+    },
+    "result": "green_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "light_blue_terracotta": 1
+    },
+    "result": "light_blue_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "polished_blackstone_slab": 2
+    },
+    "result": "chiseled_polished_blackstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "piston": 1,
+      "slime_ball": 1
+    },
+    "result": "sticky_piston",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_lapis_ore": 1,
+      "fuel": 1
+    },
+    "result": "lapis_lazuli",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "stone": 6
+    },
+    "result": "stone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "bamboo_planks": 4,
+      "stick": 2
+    },
+    "result": "bamboo_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "black_dye": 1,
+      "white_dye": 1
+    },
+    "result": "gray_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "salmon": 1
+    },
+    "result": "cooked_salmon",
+    "type": "smelting"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cobbled_deepslate": 1,
+      "diamond": 7,
+      "ward_armor_trim_smithing_template": 1
+    },
+    "result": "ward_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_warped_stem": 4
+    },
+    "result": "stripped_warped_hyphae",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "deepslate_tiles": 3
+    },
+    "result": "deepslate_tile_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "light_blue_dye": 1,
+      "terracotta": 8
+    },
+    "result": "light_blue_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "snow_block": 3
+    },
+    "result": "snow",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "prismarine_bricks": 3
+    },
+    "result": "prismarine_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "iron_block": 1
+    },
+    "result": "iron_ingot",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "jungle_boat": 1
+    },
+    "result": "jungle_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_nugget": 8,
+      "melon_slice": 1
+    },
+    "result": "glistering_melon_slice",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "exposed_copper": 4
+    },
+    "result": "exposed_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_nugget": 9
+    },
+    "result": "iron_ingot",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "clay_ball": 4
+    },
+    "result": "clay",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_copper_door": 1
+    },
+    "result": "waxed_weathered_copper_door",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "andesite": 4
+    },
+    "result": "polished_andesite",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "redstone": 1,
+      "redstone_torch": 2,
+      "stone": 3
+    },
+    "result": "repeater",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "basalt": 1,
+      "fuel": 1
+    },
+    "result": "smooth_basalt",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "jungle_planks": 1
+    },
+    "result": "jungle_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_copper_trapdoor": 1
+    },
+    "result": "waxed_weathered_copper_trapdoor",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "pink_dye": 1,
+      "sand": 4
+    },
+    "result": "pink_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "blue_terracotta": 1,
+      "fuel": 1
+    },
+    "result": "blue_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "waxed_oxidized_cut_copper": 3
+    },
+    "result": "waxed_oxidized_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "disc_fragment_5": 9
+    },
+    "result": "music_disc_5",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "acacia_planks": 2
+    },
+    "result": "acacia_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "smooth_quartz": 6
+    },
+    "result": "smooth_quartz_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "light_blue_wool": 6,
+      "stick": 1
+    },
+    "result": "light_blue_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cobbled_deepslate": 6
+    },
+    "result": "cobbled_deepslate_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "green_dye": 1,
+      "terracotta": 8
+    },
+    "result": "green_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oak_planks": 2
+    },
+    "result": "oak_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "beetroot": 1
+    },
+    "result": "red_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_cut_copper": 1
+    },
+    "result": "waxed_weathered_cut_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "beetroot": 6,
+      "bowl": 1
+    },
+    "result": "beetroot_soup",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "armadillo_scute": 6
+    },
+    "result": "wolf_armor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "red_nether_bricks": 3
+    },
+    "result": "red_nether_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "copper_block": 4
+    },
+    "result": "copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "lapis_block": 1
+    },
+    "result": "lapis_lazuli",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "cherry_planks": 4,
+      "stick": 2
+    },
+    "result": "cherry_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "poppy": 1
+    },
+    "result": "red_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "exposed_cut_copper": 3
+    },
+    "result": "exposed_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "mossy_stone_bricks": 6
+    },
+    "result": "mossy_stone_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "mangrove_log": 4
+    },
+    "result": "mangrove_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "prismarine_crystals": 5,
+      "prismarine_shard": 4
+    },
+    "result": "sea_lantern",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "stone_bricks": 1
+    },
+    "result": "cracked_stone_bricks",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_tuff": 3
+    },
+    "result": "polished_tuff_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 9
+    },
+    "result": "iron_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo_planks": 2
+    },
+    "result": "bamboo_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "blaze_powder": 1,
+      "ender_pearl": 1
+    },
+    "result": "ender_eye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "ancient_debris": 1,
+      "fuel": 1
+    },
+    "result": "netherite_scrap",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "kelp": 1
+    },
+    "result": "dried_kelp",
+    "type": "smoking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "redstone": 1,
+      "stick": 1
+    },
+    "result": "redstone_torch",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stick": 7
+    },
+    "result": "ladder",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "ender_eye": 1,
+      "ghast_tear": 1,
+      "glass": 7
+    },
+    "result": "end_crystal",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "crimson_stem": 4
+    },
+    "result": "crimson_hyphae",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "green_dye": 1
+    },
+    "result": "green_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "bamboo_planks": 6
+    },
+    "result": "bamboo_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "purple_dye": 1
+    },
+    "result": "purple_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobblestone": 7,
+      "redstone": 1
+    },
+    "result": "dropper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "amethyst_shard": 1,
+      "copper_ingot": 2
+    },
+    "result": "spyglass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 7
+    },
+    "result": "leather_horse_armor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "blue_dye": 1,
+      "green_dye": 1
+    },
+    "result": "cyan_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo": 9
+    },
+    "result": "bamboo_block",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "copper_ingot": 6
+    },
+    "result": "copper_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cobblestone": 1,
+      "diamond": 7,
+      "sentry_armor_trim_smithing_template": 1
+    },
+    "result": "sentry_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "emerald_ore": 1,
+      "fuel": 1
+    },
+    "result": "emerald",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "enchanted_golden_apple": 1,
+      "paper": 1
+    },
+    "result": "mojang_banner_pattern",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "bamboo": 6,
+      "string": 1
+    },
+    "result": "scaffolding",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "compass": 1,
+      "echo_shard": 8
+    },
+    "result": "recovery_compass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "acacia_planks": 5
+    },
+    "result": "acacia_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "ink_sac": 1
+    },
+    "result": "black_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "cyan_dye": 1,
+      "glass": 8
+    },
+    "result": "cyan_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "light_gray_dye": 1
+    },
+    "result": "light_gray_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "red_sandstone": 4
+    },
+    "result": "cut_red_sandstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "blue_dye": 1,
+      "white_dye": 1
+    },
+    "result": "light_blue_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 4,
+      "netherite_scrap": 4
+    },
+    "result": "netherite_ingot",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stick": 2,
+      "warped_planks": 4
+    },
+    "result": "warped_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "cherry_planks": 6
+    },
+    "result": "cherry_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "warped_planks": 3
+    },
+    "result": "warped_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "redstone": 1,
+      "waxed_exposed_copper": 3
+    },
+    "result": "waxed_exposed_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 2,
+      "stick": 2
+    },
+    "result": "diamond_hoe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_axe": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_axe",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "prismarine": 6
+    },
+    "result": "prismarine_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "string": 4
+    },
+    "result": "white_wool",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "dirt": 2,
+      "gravel": 2
+    },
+    "result": "coarse_dirt",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "popped_chorus_fruit": 1
+    },
+    "result": "end_rod",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "nether_gold_ore": 1
+    },
+    "result": "gold_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "red_nether_bricks": 6
+    },
+    "result": "red_nether_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "terracotta": 1,
+      "wayfinder_armor_trim_smithing_template": 1
+    },
+    "result": "wayfinder_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_copper_grate": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_copper_grate",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_cut_copper": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_cut_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_deepslate": 6
+    },
+    "result": "polished_deepslate_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_chiseled_copper": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_chiseled_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 7
+    },
+    "result": "leather_leggings",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "azure_bluet": 1
+    },
+    "result": "light_gray_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "netherite_upgrade_smithing_template": 1,
+      "netherrack": 1
+    },
+    "result": "netherite_upgrade_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "mangrove_boat": 1
+    },
+    "result": "mangrove_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oak_planks": 2,
+      "stick": 4
+    },
+    "result": "oak_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_blackstone": 4
+    },
+    "result": "polished_blackstone_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "dark_oak_planks": 6
+    },
+    "result": "dark_oak_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stick": 3,
+      "string": 3
+    },
+    "result": "bow",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "redstone": 1,
+      "waxed_oxidized_copper": 3
+    },
+    "result": "waxed_oxidized_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "raw_gold": 1
+    },
+    "result": "gold_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "light_blue_wool": 2
+    },
+    "result": "light_blue_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_jungle_log": 6
+    },
+    "result": "jungle_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "lime_dye": 1,
+      "terracotta": 8
+    },
+    "result": "lime_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_grate": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_copper_grate",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "cherry_planks": 6,
+      "stick": 1
+    },
+    "result": "cherry_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "potato": 1
+    },
+    "result": "baked_potato",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "lime_dye": 1
+    },
+    "result": "lime_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_deepslate": 3
+    },
+    "result": "polished_deepslate_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cactus": 1,
+      "fuel": 1
+    },
+    "result": "green_dye",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "dark_prismarine": 6
+    },
+    "result": "dark_prismarine_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "host_armor_trim_smithing_template": 1,
+      "terracotta": 1
+    },
+    "result": "host_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "oak_planks": 6
+    },
+    "result": "oak_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mud": 1,
+      "wheat": 1
+    },
+    "result": "packed_mud",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "coast_armor_trim_smithing_template": 1,
+      "cobblestone": 1,
+      "diamond": 7
+    },
+    "result": "coast_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chiseled_copper": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_chiseled_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "dark_oak_planks": 2
+    },
+    "result": "dark_oak_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_oxidized_cut_copper": 6
+    },
+    "result": "waxed_oxidized_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "dark_oak_planks": 6,
+      "stick": 1
+    },
+    "result": "dark_oak_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 1,
+      "stone": 3
+    },
+    "result": "stonecutter",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "black_dye": 1,
+      "prismarine_shard": 8
+    },
+    "result": "dark_prismarine",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_copper_bulb": 1
+    },
+    "result": "waxed_weathered_copper_bulb",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_dark_oak_log": 4
+    },
+    "result": "stripped_dark_oak_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "quartz_slab": 2
+    },
+    "result": "chiseled_quartz_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "nether_brick": 2,
+      "nether_bricks": 4
+    },
+    "result": "nether_brick_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "raw_iron": 9
+    },
+    "result": "raw_iron_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "ender_eye": 1,
+      "obsidian": 8
+    },
+    "result": "ender_chest",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "purple_dye": 1,
+      "sand": 4
+    },
+    "result": "purple_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_chiseled_copper": 1
+    },
+    "result": "waxed_oxidized_chiseled_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "purple_wool": 6,
+      "stick": 1
+    },
+    "result": "purple_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "melon_slice": 1
+    },
+    "result": "melon_seeds",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "blackstone": 6
+    },
+    "result": "blackstone_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "waxed_cut_copper_slab": 2
+    },
+    "result": "waxed_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_blackstone_bricks": 3
+    },
+    "result": "polished_blackstone_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chorus_fruit": 1,
+      "fuel": 1
+    },
+    "result": "popped_chorus_fruit",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "quartz_block": 4
+    },
+    "result": "quartz_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_granite": 6
+    },
+    "result": "polished_granite_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cut_copper": 3
+    },
+    "result": "cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "deepslate_bricks": 3
+    },
+    "result": "deepslate_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diorite": 1,
+      "quartz": 1
+    },
+    "result": "granite",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "iron_ingot": 1
+    },
+    "result": "iron_nugget",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "raw_iron_block": 1
+    },
+    "result": "raw_iron",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "acacia_planks": 6,
+      "stick": 1
+    },
+    "result": "acacia_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "magenta_wool": 2
+    },
+    "result": "magenta_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "red_stained_glass": 6
+    },
+    "result": "red_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "cyan_dye": 1,
+      "terracotta": 8
+    },
+    "result": "cyan_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "acacia_planks": 2,
+      "stick": 4
+    },
+    "result": "acacia_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "carved_pumpkin": 1,
+      "torch": 1
+    },
+    "result": "jack_o_lantern",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mossy_stone_bricks": 6
+    },
+    "result": "mossy_stone_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_ingot": 1,
+      "feather": 1,
+      "stick": 1
+    },
+    "result": "brush",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cobblestone": 1,
+      "diorite": 1
+    },
+    "result": "andesite",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "glass": 6
+    },
+    "result": "glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "lilac": 1
+    },
+    "result": "magenta_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "crimson_planks": 6
+    },
+    "result": "crimson_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "orange_dye": 1,
+      "terracotta": 8
+    },
+    "result": "orange_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "wet_sponge": 1
+    },
+    "result": "sponge",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 5
+    },
+    "result": "golden_helmet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "copper_ingot": 6
+    },
+    "result": "copper_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_copper_trapdoor": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_copper_trapdoor",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobblestone": 1,
+      "fuel": 1
+    },
+    "result": "stone",
+    "type": "smelting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "iron_ingot": 6
+    },
+    "result": "iron_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "raw_copper": 1
+    },
+    "result": "copper_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "light_gray_dye": 1,
+      "terracotta": 8
+    },
+    "result": "light_gray_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobblestone": 1,
+      "stick": 1
+    },
+    "result": "lever",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "exposed_cut_copper": 6
+    },
+    "result": "exposed_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "potato": 1
+    },
+    "result": "baked_potato",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_cut_copper": 6
+    },
+    "result": "waxed_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobblestone": 1,
+      "vine": 1
+    },
+    "result": "mossy_cobblestone",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "book": 1,
+      "feather": 1,
+      "ink_sac": 1
+    },
+    "result": "writable_book",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "deepslate_tiles": 6
+    },
+    "result": "deepslate_tile_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "black_dye": 1,
+      "glass": 8
+    },
+    "result": "black_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "end_stone_bricks": 3
+    },
+    "result": "end_stone_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chicken": 1,
+      "fuel": 1
+    },
+    "result": "cooked_chicken",
+    "type": "smelting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "mangrove_planks": 4,
+      "stick": 2
+    },
+    "result": "mangrove_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "birch_planks": 3
+    },
+    "result": "birch_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "mangrove_planks": 6
+    },
+    "result": "mangrove_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_weathered_cut_copper": 6
+    },
+    "result": "waxed_weathered_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "emerald_ore": 1,
+      "fuel": 1
+    },
+    "result": "emerald",
+    "type": "blasting"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "redstone_block": 1
+    },
+    "result": "redstone",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_oak_log": 6
+    },
+    "result": "oak_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "bone_block": 1
+    },
+    "result": "bone_meal",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_blackstone": 6
+    },
+    "result": "polished_blackstone_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "light_gray_terracotta": 1
+    },
+    "result": "light_gray_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo_planks": 5
+    },
+    "result": "bamboo_raft",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "cherry_planks": 6
+    },
+    "result": "cherry_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "cobblestone": 6
+    },
+    "result": "cobblestone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "deepslate_bricks": 6
+    },
+    "result": "deepslate_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_lapis_ore": 1,
+      "fuel": 1
+    },
+    "result": "lapis_lazuli",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "raw_iron": 1
+    },
+    "result": "iron_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "glowstone": 1,
+      "redstone": 4
+    },
+    "result": "redstone_lamp",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "orange_dye": 1,
+      "sand": 4
+    },
+    "result": "orange_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bow": 1,
+      "cobblestone": 7,
+      "redstone": 1
+    },
+    "result": "dispenser",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "rose_bush": 1
+    },
+    "result": "red_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_cut_copper_stairs": 1
+    },
+    "result": "waxed_oxidized_cut_copper_stairs",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "waxed_cut_copper": 3
+    },
+    "result": "waxed_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 2,
+      "stick": 1
+    },
+    "result": "golden_sword",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "spruce_planks": 2,
+      "stick": 4
+    },
+    "result": "spruce_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "glass": 3
+    },
+    "result": "glass_bottle",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "salmon": 1
+    },
+    "result": "cooked_salmon",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mangrove_planks": 1
+    },
+    "result": "mangrove_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "pink_wool": 6,
+      "stick": 1
+    },
+    "result": "pink_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_blackstone": 6
+    },
+    "result": "polished_blackstone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "magenta_dye": 1
+    },
+    "result": "magenta_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "crimson_planks": 4,
+      "stick": 2
+    },
+    "result": "crimson_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "yellow_dye": 1
+    },
+    "result": "yellow_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "weathered_copper": 4
+    },
+    "result": "weathered_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "iron_ingot": 6,
+      "redstone": 1,
+      "stone_pressure_plate": 1
+    },
+    "result": "detector_rail",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "blue_dye": 1,
+      "terracotta": 8
+    },
+    "result": "blue_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "redstone": 9
+    },
+    "result": "redstone_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "iron_ingot": 6
+    },
+    "result": "iron_bars",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stone_bricks": 1,
+      "vine": 1
+    },
+    "result": "mossy_stone_bricks",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "nether_quartz_ore": 1
+    },
+    "result": "quartz",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "iron_ore": 1
+    },
+    "result": "iron_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blackstone": 4
+    },
+    "result": "polished_blackstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "minecart": 1
+    },
+    "result": "chest_minecart",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_crimson_stem": 4
+    },
+    "result": "stripped_crimson_hyphae",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "tuff": 6
+    },
+    "result": "tuff_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "breeze_rod": 1,
+      "heavy_core": 1
+    },
+    "result": "mace",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 2
+    },
+    "result": "shears",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_cut_copper_stairs": 1
+    },
+    "result": "waxed_weathered_cut_copper_stairs",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "pink_petals": 1
+    },
+    "result": "pink_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "waxed_exposed_cut_copper": 3
+    },
+    "result": "waxed_exposed_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "kelp": 1
+    },
+    "result": "dried_kelp",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "magenta_stained_glass": 6
+    },
+    "result": "magenta_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "prismarine": 3
+    },
+    "result": "prismarine_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_jungle_log": 4
+    },
+    "result": "stripped_jungle_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "dried_kelp_block": 1
+    },
+    "result": "dried_kelp",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "sandstone": 4
+    },
+    "result": "cut_sandstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_nugget": 8,
+      "soul_torch": 1
+    },
+    "result": "soul_lantern",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_ore": 1,
+      "fuel": 1
+    },
+    "result": "copper_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "red_sandstone": 6
+    },
+    "result": "red_sandstone_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stick": 4,
+      "warped_planks": 2
+    },
+    "result": "warped_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "pitcher_plant": 1
+    },
+    "result": "cyan_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "cobbled_deepslate": 6
+    },
+    "result": "cobbled_deepslate_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "light_gray_dye": 1,
+      "sand": 4
+    },
+    "result": "light_gray_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "polished_blackstone_bricks": 1
+    },
+    "result": "cracked_polished_blackstone_bricks",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "pumpkin": 1
+    },
+    "result": "pumpkin_seeds",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "smooth_sandstone": 3
+    },
+    "result": "smooth_sandstone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "mangrove_planks": 6
+    },
+    "result": "mangrove_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_copper_ore": 1,
+      "fuel": 1
+    },
+    "result": "copper_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "sandstone": 6
+    },
+    "result": "sandstone_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "orange_stained_glass": 6
+    },
+    "result": "orange_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_copper_door": 1
+    },
+    "result": "waxed_oxidized_copper_door",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 2,
+      "stick": 2
+    },
+    "result": "golden_hoe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "white_dye": 1
+    },
+    "result": "white_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "sandstone": 1
+    },
+    "result": "smooth_sandstone",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "tripwire_hook": 1
+    },
+    "result": "trapped_chest",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "red_dye": 1
+    },
+    "result": "red_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "cyan_dye": 1
+    },
+    "result": "cyan_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_copper": 1
+    },
+    "result": "waxed_oxidized_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_block": 3,
+      "iron_ingot": 4
+    },
+    "result": "anvil",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "basalt": 4
+    },
+    "result": "polished_basalt",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stick": 1,
+      "warped_planks": 6
+    },
+    "result": "warped_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "orange_tulip": 1
+    },
+    "result": "orange_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "copper_block": 4
+    },
+    "result": "cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "warped_planks": 6
+    },
+    "result": "warped_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "honey_bottle": 1
+    },
+    "result": "sugar",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "granite": 4
+    },
+    "result": "polished_granite",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cherry_boat": 1,
+      "chest": 1
+    },
+    "result": "cherry_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_cut_copper_slab": 1
+    },
+    "result": "waxed_oxidized_cut_copper_slab",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "oak_log": 4
+    },
+    "result": "oak_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "bamboo_planks": 6,
+      "stick": 1
+    },
+    "result": "bamboo_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "orange_dye": 1
+    },
+    "result": "orange_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oxidized_cut_copper_slab": 2
+    },
+    "result": "oxidized_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "gray_dye": 1
+    },
+    "result": "gray_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 5
+    },
+    "result": "leather_helmet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "smooth_stone": 3
+    },
+    "result": "smooth_stone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "prismarine_bricks": 6
+    },
+    "result": "prismarine_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "mud_bricks": 6
+    },
+    "result": "mud_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_birch_log": 4
+    },
+    "result": "stripped_birch_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cobbled_deepslate": 3
+    },
+    "result": "cobbled_deepslate_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "glowstone_dust": 4
+    },
+    "result": "glowstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "glass": 5,
+      "nether_star": 1,
+      "obsidian": 3
+    },
+    "result": "beacon",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "pink_stained_glass": 6
+    },
+    "result": "pink_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "terracotta": 8,
+      "white_dye": 1
+    },
+    "result": "white_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_copper_bulb": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_copper_bulb",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "quartz": 1,
+      "redstone_torch": 3,
+      "stone": 3
+    },
+    "result": "comparator",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "crafting_table": 1,
+      "dropper": 1,
+      "iron_ingot": 5,
+      "redstone": 2
+    },
+    "result": "crafter",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_acacia_log": 4
+    },
+    "result": "stripped_acacia_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "red_terracotta": 1
+    },
+    "result": "red_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "gray_dye": 1,
+      "white_dye": 1
+    },
+    "result": "light_gray_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_andesite": 3
+    },
+    "result": "polished_andesite_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "blackstone": 1,
+      "diamond": 7,
+      "snout_armor_trim_smithing_template": 1
+    },
+    "result": "snout_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "ancient_debris": 1,
+      "fuel": 1
+    },
+    "result": "netherite_scrap",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "beef": 1,
+      "fuel": 1
+    },
+    "result": "cooked_beef",
+    "type": "smoking"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "netherrack": 1,
+      "rib_armor_trim_smithing_template": 1
+    },
+    "result": "rib_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "waxed_copper_block": 1
+    },
+    "result": "copper_ingot",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "acacia_log": 4
+    },
+    "result": "acacia_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "nether_gold_ore": 1
+    },
+    "result": "gold_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "wheat": 3
+    },
+    "result": "bread",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 7
+    },
+    "result": "cauldron",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "jungle_planks": 6
+    },
+    "result": "jungle_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "dark_oak_boat": 1
+    },
+    "result": "dark_oak_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "oak_planks": 6,
+      "stick": 1
+    },
+    "result": "oak_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brick": 4
+    },
+    "result": "decorated_pot",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_deepslate": 4
+    },
+    "result": "deepslate_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "quartz_block": 2
+    },
+    "result": "quartz_pillar",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "packed_ice": 9
+    },
+    "result": "blue_ice",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "weathered_cut_copper": 6
+    },
+    "result": "weathered_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "cocoa_beans": 1,
+      "wheat": 2
+    },
+    "result": "cookie",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_oxidized_copper": 4
+    },
+    "result": "waxed_oxidized_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "spruce_planks": 2
+    },
+    "result": "spruce_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gray_wool": 6,
+      "stick": 1
+    },
+    "result": "gray_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bone_meal": 1
+    },
+    "result": "white_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 3,
+      "stick": 2
+    },
+    "result": "diamond_pickaxe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cut_sandstone": 3
+    },
+    "result": "cut_sandstone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "spruce_planks": 5
+    },
+    "result": "spruce_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "birch_planks": 5
+    },
+    "result": "birch_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "acacia_planks": 3
+    },
+    "result": "acacia_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "raw_gold": 1
+    },
+    "result": "gold_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cod": 1
+    },
+    "result": "cooked_cod",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stick": 1,
+      "yellow_wool": 6
+    },
+    "result": "yellow_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "paper": 1,
+      "wither_skeleton_skull": 1
+    },
+    "result": "skull_banner_pattern",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "polished_blackstone": 1
+    },
+    "result": "polished_blackstone_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chest": 1,
+      "spruce_boat": 1
+    },
+    "result": "spruce_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oxeye_daisy": 1
+    },
+    "result": "light_gray_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "pink_dye": 1
+    },
+    "result": "pink_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brick": 4
+    },
+    "result": "bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cut_red_sandstone": 3
+    },
+    "result": "cut_red_sandstone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "light_gray_wool": 2
+    },
+    "result": "light_gray_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_gold_ore": 1,
+      "fuel": 1
+    },
+    "result": "gold_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "jungle_planks": 4,
+      "stick": 2
+    },
+    "result": "jungle_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cherry_planks": 5
+    },
+    "result": "cherry_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "string": 1
+    },
+    "result": "candle",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "dark_oak_planks": 6
+    },
+    "result": "dark_oak_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "red_wool": 6,
+      "stick": 1
+    },
+    "result": "red_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "waxed_weathered_cut_copper_slab": 2
+    },
+    "result": "waxed_weathered_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "redstone_ore": 1
+    },
+    "result": "redstone",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "birch_planks": 2
+    },
+    "result": "birch_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "cherry_log": 4
+    },
+    "result": "cherry_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_tiles": 1,
+      "fuel": 1
+    },
+    "result": "cracked_deepslate_tiles",
+    "type": "smelting"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "brown_stained_glass": 6
+    },
+    "result": "brown_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "netherite_block": 1
+    },
+    "result": "netherite_ingot",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "yellow_stained_glass": 6
+    },
+    "result": "yellow_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "diorite": 6
+    },
+    "result": "diorite_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 8
+    },
+    "result": "leather_chestplate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 4
+    },
+    "result": "iron_boots",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 3,
+      "stick": 2
+    },
+    "result": "iron_axe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_andesite": 6
+    },
+    "result": "polished_andesite_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "pink_dye": 1
+    },
+    "result": "pink_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "end_stone_bricks": 6
+    },
+    "result": "end_stone_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "red_tulip": 1
+    },
+    "result": "red_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "oak_planks": 4,
+      "stick": 2
+    },
+    "result": "oak_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brown_mushroom": 1,
+      "spider_eye": 1,
+      "sugar": 1
+    },
+    "result": "fermented_spider_eye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "jungle_planks": 2,
+      "stick": 4
+    },
+    "result": "jungle_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cyan_terracotta": 1,
+      "fuel": 1
+    },
+    "result": "cyan_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 7
+    },
+    "result": "iron_leggings",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_blackstone_bricks": 6
+    },
+    "result": "polished_blackstone_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "cyan_dye": 1,
+      "glass_pane": 8
+    },
+    "result": "cyan_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "end_stone_bricks": 6
+    },
+    "result": "end_stone_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "spruce_planks": 3
+    },
+    "result": "spruce_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "green_dye": 1,
+      "sand": 4
+    },
+    "result": "green_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "acacia_planks": 6
+    },
+    "result": "acacia_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "light_gray_dye": 1
+    },
+    "result": "light_gray_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "raw_gold": 9
+    },
+    "result": "raw_gold_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 4,
+      "redstone": 1
+    },
+    "result": "compass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "magenta_dye": 1,
+      "terracotta": 8
+    },
+    "result": "magenta_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "oxidized_copper": 4
+    },
+    "result": "oxidized_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "cyan_dye": 1,
+      "gravel": 4,
+      "sand": 4
+    },
+    "result": "cyan_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "red_sandstone": 1
+    },
+    "result": "smooth_red_sandstone",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_copper_grate": 1
+    },
+    "result": "waxed_weathered_copper_grate",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mangrove_planks": 3
+    },
+    "result": "mangrove_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cut_copper_slab": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_cut_copper_slab",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "raw_copper": 1
+    },
+    "result": "copper_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_coal_ore": 1,
+      "fuel": 1
+    },
+    "result": "coal",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "redstone": 1,
+      "waxed_copper_block": 3
+    },
+    "result": "waxed_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "jungle_planks": 5
+    },
+    "result": "jungle_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "smooth_red_sandstone": 3
+    },
+    "result": "smooth_red_sandstone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "magenta_terracotta": 1
+    },
+    "result": "magenta_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "book": 1,
+      "diamond": 2,
+      "obsidian": 4
+    },
+    "result": "enchanting_table",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "blue_dye": 1,
+      "glass_pane": 8
+    },
+    "result": "blue_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "breeze_rod": 1
+    },
+    "result": "wind_charge",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "red_dye": 1,
+      "yellow_dye": 1
+    },
+    "result": "orange_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "shaper_armor_trim_smithing_template": 1,
+      "terracotta": 1
+    },
+    "result": "shaper_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stone_brick_slab": 2
+    },
+    "result": "chiseled_stone_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "magenta_dye": 1
+    },
+    "result": "magenta_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "creeper_head": 1,
+      "paper": 1
+    },
+    "result": "creeper_banner_pattern",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blackstone": 6
+    },
+    "result": "blackstone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 2,
+      "stick": 2
+    },
+    "result": "iron_hoe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "blue_orchid": 1
+    },
+    "result": "light_blue_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "oxidized_copper": 3,
+      "redstone": 1
+    },
+    "result": "oxidized_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mutton": 1
+    },
+    "result": "cooked_mutton",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_cut_copper_slab": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_cut_copper_slab",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "blackstone": 3
+    },
+    "result": "blackstone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "popped_chorus_fruit": 4
+    },
+    "result": "purpur_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "bamboo_mosaic": 3
+    },
+    "result": "bamboo_mosaic_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "red_sandstone_slab": 2
+    },
+    "result": "chiseled_red_sandstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "quartz_block": 1
+    },
+    "result": "smooth_quartz",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "dark_oak_planks": 1
+    },
+    "result": "dark_oak_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "light_gray_wool": 6,
+      "stick": 1
+    },
+    "result": "light_gray_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_crimson_stem": 6
+    },
+    "result": "crimson_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "light_blue_stained_glass": 6
+    },
+    "result": "light_blue_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "bricks": 6
+    },
+    "result": "brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "purpur_block": 1,
+      "spire_armor_trim_smithing_template": 1
+    },
+    "result": "spire_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_leggings": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_leggings",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_redstone_ore": 1,
+      "fuel": 1
+    },
+    "result": "redstone",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_copper_bulb": 1
+    },
+    "result": "waxed_oxidized_copper_bulb",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "light_blue_dye": 1,
+      "sand": 4
+    },
+    "result": "light_blue_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "andesite": 6
+    },
+    "result": "andesite_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "stone": 1
+    },
+    "result": "stone_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "diorite": 3
+    },
+    "result": "diorite_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "heart_of_the_sea": 1,
+      "nautilus_shell": 8
+    },
+    "result": "conduit",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "coal_block": 1
+    },
+    "result": "coal",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "lime_terracotta": 1
+    },
+    "result": "lime_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_emerald_ore": 1,
+      "fuel": 1
+    },
+    "result": "emerald",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "red_dye": 1
+    },
+    "result": "red_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "potato": 1
+    },
+    "result": "baked_potato",
+    "type": "smoking"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "cyan_wool": 2
+    },
+    "result": "cyan_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "stone_bricks": 6
+    },
+    "result": "stone_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "ice": 9
+    },
+    "result": "packed_ice",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "baked_potato": 1,
+      "bowl": 1,
+      "carrot": 1,
+      "cooked_rabbit": 1,
+      "red_mushroom": 1
+    },
+    "result": "rabbit_stew",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "clay_ball": 1,
+      "fuel": 1
+    },
+    "result": "brick",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_bricks": 1,
+      "fuel": 1
+    },
+    "result": "cracked_deepslate_bricks",
+    "type": "smelting"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "pink_dye": 1,
+      "terracotta": 8
+    },
+    "result": "pink_terracotta",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 9,
+    "requirements": {
+      "slime_block": 1
+    },
+    "result": "slime_ball",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "pink_dye": 1,
+      "purple_dye": 1
+    },
+    "result": "magenta_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_oxidized_copper": 4
+    },
+    "result": "waxed_oxidized_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_birch_log": 6
+    },
+    "result": "birch_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 2
+    },
+    "result": "heavy_weighted_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "oak_planks": 6
+    },
+    "result": "oak_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "smooth_red_sandstone": 6
+    },
+    "result": "smooth_red_sandstone_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "stone_bricks": 3
+    },
+    "result": "stone_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blaze_rod": 1,
+      "redstone": 1,
+      "waxed_weathered_copper": 3
+    },
+    "result": "waxed_weathered_copper_bulb",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "oxidized_copper": 4
+    },
+    "result": "oxidized_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "andesite": 3
+    },
+    "result": "andesite_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "oxidized_cut_copper": 6
+    },
+    "result": "oxidized_cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "mangrove_planks": 6,
+      "stick": 1
+    },
+    "result": "mangrove_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "exposed_copper": 4
+    },
+    "result": "exposed_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "crimson_planks": 6,
+      "stick": 1
+    },
+    "result": "crimson_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mangrove_planks": 5
+    },
+    "result": "mangrove_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "acacia_planks": 6
+    },
+    "result": "acacia_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 8
+    },
+    "result": "iron_chestplate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oak_planks": 5
+    },
+    "result": "oak_boat",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "hopper": 1,
+      "minecart": 1
+    },
+    "result": "hopper_minecart",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "spruce_planks": 6
+    },
+    "result": "spruce_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "coal_ore": 1,
+      "fuel": 1
+    },
+    "result": "coal",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "deepslate_bricks": 6
+    },
+    "result": "deepslate_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "cobblestone": 3
+    },
+    "result": "cobblestone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "crimson_planks": 2,
+      "stick": 4
+    },
+    "result": "crimson_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_iron_ore": 1,
+      "fuel": 1
+    },
+    "result": "iron_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_copper_block": 4
+    },
+    "result": "waxed_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "yellow_dye": 1
+    },
+    "result": "yellow_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "black_dye": 1,
+      "gravel": 4,
+      "sand": 4
+    },
+    "result": "black_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "mossy_cobblestone": 1,
+      "wild_armor_trim_smithing_template": 1
+    },
+    "result": "wild_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "weathered_cut_copper_slab": 1
+    },
+    "result": "waxed_weathered_cut_copper_slab",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "blue_dye": 1,
+      "gravel": 4,
+      "sand": 4
+    },
+    "result": "blue_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "lapis_lazuli": 9
+    },
+    "result": "lapis_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "jungle_planks": 2
+    },
+    "result": "jungle_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "granite": 3
+    },
+    "result": "granite_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "polished_tuff": 4
+    },
+    "result": "tuff_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass_pane": 8,
+      "light_blue_dye": 1
+    },
+    "result": "light_blue_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mossy_cobblestone": 6
+    },
+    "result": "mossy_cobblestone_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "prismarine": 6
+    },
+    "result": "prismarine_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "wither_rose": 1
+    },
+    "result": "black_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oxeye_daisy": 1,
+      "paper": 1
+    },
+    "result": "flower_banner_pattern",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "clay": 1,
+      "fuel": 1
+    },
+    "result": "terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "pink_wool": 2
+    },
+    "result": "pink_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "beef": 1,
+      "fuel": 1
+    },
+    "result": "cooked_beef",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "polished_blackstone": 2
+    },
+    "result": "polished_blackstone_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 2,
+      "stick": 1
+    },
+    "result": "iron_sword",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "glass_bottle": 4,
+      "honey_block": 1
+    },
+    "result": "honey_bottle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fishing_rod": 1,
+      "warped_fungus": 1
+    },
+    "result": "warped_fungus_on_a_stick",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "allium": 1
+    },
+    "result": "magenta_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "netherrack": 1
+    },
+    "result": "nether_brick",
+    "type": "smelting"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "cherry_planks": 6
+    },
+    "result": "cherry_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "packed_mud": 4
+    },
+    "result": "mud_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_redstone_ore": 1,
+      "fuel": 1
+    },
+    "result": "redstone",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "rabbit": 1
+    },
+    "result": "cooked_rabbit",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 3,
+      "stick": 2
+    },
+    "result": "iron_pickaxe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "amethyst_shard": 4,
+      "glass": 1
+    },
+    "result": "tinted_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_nugget": 8,
+      "torch": 1
+    },
+    "result": "lantern",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mangrove_roots": 1,
+      "mud": 1
+    },
+    "result": "muddy_mangrove_roots",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "brown_dye": 1,
+      "glass_pane": 8
+    },
+    "result": "brown_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "prismarine_shard": 9
+    },
+    "result": "prismarine_bricks",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "prismarine_shard": 4
+    },
+    "result": "prismarine",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "spruce_planks": 1
+    },
+    "result": "spruce_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mossy_cobblestone": 3
+    },
+    "result": "mossy_cobblestone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_ore": 1,
+      "fuel": 1
+    },
+    "result": "diamond",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "birch_boat": 1,
+      "chest": 1
+    },
+    "result": "birch_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "egg": 1,
+      "milk_bucket": 3,
+      "sugar": 2,
+      "wheat": 3
+    },
+    "result": "cake",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "magma_cream": 4
+    },
+    "result": "magma_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_granite": 3
+    },
+    "result": "polished_granite_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 3,
+      "stick": 2
+    },
+    "result": "golden_pickaxe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "lapis_lazuli": 1
+    },
+    "result": "blue_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "chicken": 1
+    },
+    "result": "cooked_chicken",
+    "type": "campfire_cooking"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "birch_planks": 6
+    },
+    "result": "birch_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "birch_planks": 2,
+      "stick": 4
+    },
+    "result": "birch_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mangrove_planks": 2,
+      "stick": 4
+    },
+    "result": "mangrove_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "tuff_slab": 2
+    },
+    "result": "chiseled_tuff",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cut_copper": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_cut_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "prismarine": 1,
+      "tide_armor_trim_smithing_template": 1
+    },
+    "result": "tide_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "cut_copper": 6
+    },
+    "result": "cut_copper_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "yellow_terracotta": 1
+    },
+    "result": "yellow_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "iron_ore": 1
+    },
+    "result": "iron_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "red_nether_bricks": 6
+    },
+    "result": "red_nether_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "iron_ingot": 6,
+      "stick": 1
+    },
+    "result": "rail",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "tuff_bricks": 6
+    },
+    "result": "tuff_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "dark_oak_planks": 3
+    },
+    "result": "dark_oak_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "deepslate_gold_ore": 1,
+      "fuel": 1
+    },
+    "result": "gold_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "sandstone_slab": 2
+    },
+    "result": "chiseled_sandstone",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "lily_of_the_valley": 1
+    },
+    "result": "white_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "dark_oak_planks": 4,
+      "stick": 2
+    },
+    "result": "dark_oak_fence",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_nugget": 9
+    },
+    "result": "gold_ingot",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "spruce_planks": 6
+    },
+    "result": "spruce_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "apple": 1,
+      "gold_ingot": 8
+    },
+    "result": "golden_apple",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_tuff": 6
+    },
+    "result": "polished_tuff_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "nether_bricks": 1
+    },
+    "result": "cracked_nether_bricks",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobbled_deepslate_slab": 2
+    },
+    "result": "chiseled_deepslate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_boots": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_boots",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "bricks": 3
+    },
+    "result": "brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cocoa_beans": 1
+    },
+    "result": "brown_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "honeycomb": 1,
+      "oxidized_cut_copper": 1
+    },
+    "result": "waxed_oxidized_cut_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_exposed_copper": 4
+    },
+    "result": "waxed_exposed_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "jungle_planks": 6,
+      "stick": 1
+    },
+    "result": "jungle_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "leather": 1,
+      "stick": 8
+    },
+    "result": "item_frame",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "mangrove_planks": 2
+    },
+    "result": "mangrove_pressure_plate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_warped_stem": 6
+    },
+    "result": "warped_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "diorite": 4
+    },
+    "result": "polished_diorite",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 9
+    },
+    "result": "gold_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "blue_dye": 1,
+      "glass": 8
+    },
+    "result": "blue_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_deepslate": 6
+    },
+    "result": "polished_deepslate_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 8
+    },
+    "result": "golden_chestplate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond": 8
+    },
+    "result": "diamond_chestplate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "brown_wool": 6,
+      "stick": 1
+    },
+    "result": "brown_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 7
+    },
+    "result": "golden_leggings",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "nether_quartz_ore": 1
+    },
+    "result": "quartz",
+    "type": "smelting"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "stone_bricks": 6
+    },
+    "result": "stone_brick_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "warped_stem": 4
+    },
+    "result": "warped_hyphae",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "dark_oak_log": 4
+    },
+    "result": "dark_oak_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "white_stained_glass": 6
+    },
+    "result": "white_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "purple_terracotta": 1
+    },
+    "result": "purple_glazed_terracotta",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "pink_tulip": 1
+    },
+    "result": "pink_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "birch_planks": 6
+    },
+    "result": "birch_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 1,
+      "stick": 3,
+      "string": 2,
+      "tripwire_hook": 1
+    },
+    "result": "crossbow",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "granite": 6
+    },
+    "result": "granite_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "mutton": 1
+    },
+    "result": "cooked_mutton",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "bamboo_slab": 2
+    },
+    "result": "bamboo_mosaic",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "acacia_boat": 1,
+      "chest": 1
+    },
+    "result": "acacia_chest_boat",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "end_stone": 1,
+      "eye_armor_trim_smithing_template": 1
+    },
+    "result": "eye_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "tuff_brick_slab": 2
+    },
+    "result": "chiseled_tuff_bricks",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 5
+    },
+    "result": "iron_helmet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "gold_ore": 1
+    },
+    "result": "gold_ingot",
+    "type": "blasting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_shovel": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_shovel",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "dark_oak_planks": 2,
+      "stick": 4
+    },
+    "result": "dark_oak_fence_gate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "rabbit_hide": 4
+    },
+    "result": "leather",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "mud_bricks": 3
+    },
+    "result": "mud_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_exposed_copper": 4
+    },
+    "result": "waxed_exposed_copper_grate",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "torchflower": 1
+    },
+    "result": "orange_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "diamond_sword": 1,
+      "netherite_ingot": 1,
+      "netherite_upgrade_smithing_template": 1
+    },
+    "result": "netherite_sword",
+    "type": "smithing_transform"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobbled_deepslate": 1,
+      "fuel": 1
+    },
+    "result": "deepslate",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "oak_planks": 1
+    },
+    "result": "oak_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cobblestone": 1,
+      "moss_block": 1
+    },
+    "result": "mossy_cobblestone",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_door": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_copper_door",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "spruce_planks": 6
+    },
+    "result": "spruce_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "nether_bricks": 6
+    },
+    "result": "nether_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "crying_obsidian": 6,
+      "glowstone": 3
+    },
+    "result": "respawn_anchor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "magenta_dye": 1
+    },
+    "result": "magenta_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_spruce_log": 4
+    },
+    "result": "stripped_spruce_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "black_dye": 1,
+      "white_dye": 2
+    },
+    "result": "light_gray_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "light_gray_dye": 1
+    },
+    "result": "light_gray_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "diamond": 7,
+      "raiser_armor_trim_smithing_template": 1,
+      "terracotta": 1
+    },
+    "result": "raiser_armor_trim_smithing_template",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "polished_blackstone_bricks": 6
+    },
+    "result": "polished_blackstone_brick_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "carrot": 1,
+      "gold_nugget": 8
+    },
+    "result": "golden_carrot",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "gold_ingot": 3,
+      "stick": 2
+    },
+    "result": "golden_axe",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "oxidized_cut_copper": 3
+    },
+    "result": "oxidized_cut_copper_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "flint": 1,
+      "iron_ingot": 1
+    },
+    "result": "flint_and_steel",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "blue_wool": 2
+    },
+    "result": "blue_carpet",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "chain": 2,
+      "stripped_cherry_log": 6
+    },
+    "result": "cherry_hanging_sign",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "stone": 3
+    },
+    "result": "stone_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "acacia_planks": 1
+    },
+    "result": "acacia_button",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "moss_block": 1,
+      "stone_bricks": 1
+    },
+    "result": "mossy_stone_bricks",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "oak_planks": 3
+    },
+    "result": "oak_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "fuel": 1,
+      "mutton": 1
+    },
+    "result": "cooked_mutton",
+    "type": "smoking"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "purple_stained_glass": 6
+    },
+    "result": "purple_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "dandelion": 1
+    },
+    "result": "yellow_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "bamboo_planks": 3
+    },
+    "result": "bamboo_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "light_blue_dye": 1
+    },
+    "result": "light_blue_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "bamboo_mosaic": 6
+    },
+    "result": "bamboo_mosaic_stairs",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "stripped_mangrove_log": 4
+    },
+    "result": "stripped_mangrove_wood",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "gravel": 4,
+      "red_dye": 1,
+      "sand": 4
+    },
+    "result": "red_concrete_powder",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "lime_stained_glass": 6
+    },
+    "result": "lime_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "amethyst_shard": 4
+    },
+    "result": "amethyst_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "copper_ore": 1,
+      "fuel": 1
+    },
+    "result": "copper_ingot",
+    "type": "smelting"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cod": 1,
+      "fuel": 1
+    },
+    "result": "cooked_cod",
+    "type": "smoking"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "diorite": 6
+    },
+    "result": "diorite_wall",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "white_dye": 1
+    },
+    "result": "white_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "crimson_planks": 6
+    },
+    "result": "crimson_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_cut_copper_slab": 2
+    },
+    "result": "exposed_chiseled_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "iron_ingot": 1,
+      "stick": 2
+    },
+    "result": "iron_shovel",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 8,
+    "requirements": {
+      "glass": 8,
+      "orange_dye": 1
+    },
+    "result": "orange_stained_glass",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "warped_planks": 6
+    },
+    "result": "warped_trapdoor",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "cyan_wool": 6,
+      "stick": 1
+    },
+    "result": "cyan_banner",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "slime_ball": 9
+    },
+    "result": "slime_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "exposed_copper": 1,
+      "honeycomb": 1
+    },
+    "result": "waxed_exposed_copper",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "crimson_planks": 3
+    },
+    "result": "crimson_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 16,
+    "requirements": {
+      "cyan_stained_glass": 6
+    },
+    "result": "cyan_stained_glass_pane",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "slime_ball": 1,
+      "string": 4
+    },
+    "result": "lead",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "emerald": 9
+    },
+    "result": "emerald_block",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "gray_dye": 1
+    },
+    "result": "gray_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "blue_dye": 1,
+      "red_dye": 2,
+      "white_dye": 1
+    },
+    "result": "magenta_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "smooth_quartz": 3
+    },
+    "result": "smooth_quartz_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 2,
+    "requirements": {
+      "green_dye": 1,
+      "white_dye": 1
+    },
+    "result": "lime_dye",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 4,
+    "requirements": {
+      "waxed_copper_block": 4
+    },
+    "result": "waxed_cut_copper",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 3,
+    "requirements": {
+      "oak_planks": 6
+    },
+    "result": "oak_door",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "iron_ingot": 6,
+      "redstone_torch": 1,
+      "stick": 2
+    },
+    "result": "activator_rail",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 6,
+    "requirements": {
+      "tuff_bricks": 3
+    },
+    "result": "tuff_brick_slab",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "candle": 1,
+      "yellow_dye": 1
+    },
+    "result": "yellow_candle",
+    "type": "crafting_shapeless"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "hay_block": 1,
+      "redstone": 4
+    },
+    "result": "target",
+    "type": "crafting_shaped"
+  },
+  {
+    "quantity": 1,
+    "requirements": {
+      "netherite_ingot": 9
+    },
+    "result": "netherite_block",
+    "type": "crafting_shaped"
+  }
+]
